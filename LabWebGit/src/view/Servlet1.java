@@ -22,15 +22,12 @@ public class Servlet1 extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 
-		this.doGet(request, response);
-
-
 
 
 		this.doGet(request, response);
 
-System.out.println("00");
 
 
 	}
 }
+© 2019 GitHub, Inc.
